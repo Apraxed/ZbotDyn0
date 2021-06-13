@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and currently have 3 of disord.py projects made by me and @Carnoval15 and one made by another friend
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on bots with @aviation8816
-- 📫 If you want code for a bot, at this moment I am not the best but I can do simple information bots. If you want one, Friend me on discord and I might be able to help
+- 📫 Friend me on discord, i just might be able to make you a bot, Zbot#9814, I am currently making a discord.py ext library for me to use myself
 
 <!---
 ZbotDyn0/ZbotDyn0 is a ✨ special ✨ repository because its `README.md` (this on your GitHub profile.
