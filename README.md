@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name is Zack but you can call me "Z" or "Apraxed" or "A"
+My name is Zack but you can call me "Z" or "Zbot"
 
 Things I'm working on
 -
